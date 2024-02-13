@@ -10,3 +10,7 @@
 10) again checking status using git status
 11) using git push orgin main command for pushing the local repo to git hub 
 12) when can also use got push -u orgin main for future shortcut command such as git push which will push the code to main orginal branch (master branch)
+13) checking which branch we are in using this command git brach 
+14) creating a new branch using this command git checkout -b branchName 
+15) to switch from one branch to other branch using this command git checkout branchName
+16)to delete branch using this command git branch -d branchName
