@@ -1,0 +1,13 @@
+# Ignoring the folder
+Ignore Folder/
+
+# Ignoring file 
+this.html
+by.py
+hh.php
+
+# Ignoring extension
+*.log  
+
+
+

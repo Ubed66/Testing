@@ -4,3 +4,7 @@
 4) using  git status command for checking status
 5) using git add . command for add all the files 
 6) using git status command for checking the status
+7) using git commit -m "Adding meaningfull message" for commit 
+8) using git remote add orgin <link of repo of git hub >
+9) Creating a .gitignore file from the terminal by using touch .gitignore command from the root directory
+10) again checking status using git status
