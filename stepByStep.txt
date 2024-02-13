@@ -14,3 +14,4 @@
 14) creating a new branch using this command git checkout -b branchName 
 15) to switch from one branch to other branch using this command git checkout branchName
 16)to delete branch using this command git branch -d branchName
+17) for merging the branch with the main branch we should go inside the not updated branch 
