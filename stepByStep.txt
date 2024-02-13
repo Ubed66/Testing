@@ -8,3 +8,5 @@
 8) using git remote add orgin <link of repo of git hub >
 9) Creating a .gitignore file from the terminal by using touch .gitignore command from the root directory
 10) again checking status using git status
+11) using git push orgin main command for pushing the local repo to git hub 
+12) when can also use got push -u orgin main for future shortcut command such as git push which will push the code to main orginal branch (master branch)
