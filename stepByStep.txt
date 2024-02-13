@@ -1,0 +1,6 @@
+1) adding git inside the project using command git init
+2) checking all the files using ls command 
+3) checking all the hidden files using ls -Force command and after getting .git folder means git is added succesfull inside the project
+4) using  git status command for checking status
+5) using git add . command for add all the files 
+6) using git status command for checking the status
